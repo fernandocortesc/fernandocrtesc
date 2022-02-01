@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently studying the second trimester as engineer in cibersecurity
 - 📫 How to reach me: Twitter: @FernandoCrtesC
-                       Email: fernando@fernandocortesc.com
+                       Email: contacto@fernandocortesc.com
 
 <!---
 fernandocrtesc/fernandocrtesc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
