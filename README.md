@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fernandocrtesc
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently studying the second trimester as engineer in cibersecurity
-- 👨‍💻I work at a an IT call center
+- 🌱 I’m currently studying an engineering in cibersecurity
+- 👨‍💻I work at an IT call center
 - 📫 How to reach me: Twitter: @FernandoCrtesC
                        Email: contacto@fernandocortesc.com
 
